@@ -1,21 +1,23 @@
+# API para Blog  
 
-# Api para blog em C#
+Uma API para um blog contendo seções de temas, postagens e usuários autenticados.  
 
-Uma Api para um blog contendo seção de temas, postagens e usuarios autenticados.
+## Funcionalidades  
 
+- CRUD completo para temas, postagens e usuários.  
+- Autenticação e autorização configuradas para maior segurança.  
+- Integração com Swagger para documentação interativa.  
 
-## Funcionalidades
+## Stack utilizada  
 
-- CRUD de temas, postagens e usuarios
-- Autenticação e segurança configurados
+**Back-end:** .NET 8, C#, ASP.NET Core  
+**Database:** Microsoft SQL Server  
 
+## Pré-requisitos  
 
-## Stack utilizada
-
-**Back-end:** .NET 8, C#, ASP.NET
-
-**Database:** Microsoft SQL Server
-
+Certifique-se de ter instalado:  
+- [.NET SDK](https://dotnet.microsoft.com/download/dotnet)  
+- [SQL Server](https://www.microsoft.com/sql-server)
 
 ## Rodando localmente
 

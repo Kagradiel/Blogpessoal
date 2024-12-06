@@ -7,6 +7,7 @@ Uma Api para um blog contendo seção de temas, postagens e usuarios autenticado
 ## Funcionalidades
 
 - CRUD de temas, postagens e usuarios
+- Autenticação e segurança configurados
 
 
 ## Stack utilizada
